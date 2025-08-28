@@ -28,8 +28,8 @@ I value readable code, iterative learning, and small, testable steps.
 
 ## Getting in Touch
 - GitHub: [github.com/Lodgoer](https://github.com/Lodgoer)  
-- LinkedIn: [https://www.linkedin.com/in/hosnahajimohammadi/]  
-- Email: [h.m.hosna@gmail.com]  
+- LinkedIn: https://www.linkedin.com/in/hosnahajimohammadi/
+- Email: h.m.hosna@gmail.com
 
 ---
 
