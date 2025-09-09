@@ -3,7 +3,6 @@
 > Software Engineering Student · Aspiring Full-Stack Developer  
 > Focus: building reliable APIs and modern, maintainable frontends
 
-[![GitHub followers](https://img.shields.io/github/followers/Lodgoer?label=follow&style=social)](https://github.com/Lodgoer)  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lodgoer&layout=compact)](https://github.com/anuraghazra/github-readme-stats)  
 ![Open to internships](https://img.shields.io/badge/open%20to-internships-blueviolet)
 
