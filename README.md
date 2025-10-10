@@ -1,18 +1,12 @@
 # Hi, I’m Hosna  
-🎯 Software Engineering Student · Aspiring Full-Stack Developer  
-
-Building reliable APIs and clean, modern frontends.  
+Software Engineering Student · Junior Full-Stack Developer 🌱
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lodgoer&layout=compact)](https://github.com/anuraghazra/github-readme-stats)  
 ![Open to internships](https://img.shields.io/badge/open%20to-internships-blueviolet)
 
 ---
 
-## About
-I’m a software engineering student focused on turning ideas into working software — from data models to production-ready UIs.  
-I value readable code, clear architecture, and small, testable steps.
-
-**Current focus:** C#, ASP.NET Core, Web APIs, Entity Framework, Angular, Tailwind.
+**Current focus:** C#, ASP.NET Core, Web APIs, Entity Framework, Angular, Tailwind, EF, DDD.
 
 ---
 
