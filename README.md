@@ -1,8 +1,11 @@
 # Hi, I’m Hosna 👋  
 Software Engineering Student · Junior Full-Stack Developer 🌱  
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lodgoer&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)  
-[![Hosna's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lodgoer&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)  
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Lodgoer&show_icons=true&theme=radical" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lodgoer&layout=compact&theme=radical" />
+</p>
+
 ![Open to internships](https://img.shields.io/badge/open%20to-internships-blueviolet?style=flat-square)
 
 ---
