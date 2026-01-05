@@ -1,8 +1,9 @@
-# Hi, I’m Hosna 👋  
+# Hi, I’m Hosna 
 Software Engineering Student · Junior Full-Stack Developer 🌱  
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Lodgoer&show_icons=true&theme=radical&rank_icon=github&cache_seconds=86400" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lodgoer&size_weight=0.5&count_weight=0.5" />
+  
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lodgoer&layout=compact&theme=radical&cache_seconds=86400" />
 </p>
 
