@@ -1,62 +1,26 @@
-<!-- Profile README for Hosna (Lodgoer) -->
+## Hi, It's Hosna!
 
-<h1 align="center">👋 Hi, I'm Hosna</h1>
+Backend-focused Software Engineering Student  
+C# · .NET · ASP.NET Core · EF Core · SQL
 
-<p align="center">
-  <em>Software Engineering Student · Junior Back-end Developer</em>
-</p>
+I build backend systems with clarity in mind —  
+simple where possible, structured where necessary, scalable by design.
 
-<p align="center">
-  <a href="mailto:h.m.hosna@gmail.com"><img src="https://img.shields.io/badge/Email-h.m.hosna%40gmail.com-blue?style=flat&logo=gmail" alt="email badge" /></a>
-  <a href="https://www.linkedin.com/in/hosnahajimohammadi/"><img src="https://img.shields.io/badge/LinkedIn-Hosna%20Hajimohammadi-0077B5?style=flat&logo=linkedin" alt="linkedin badge" /></a>
-  <a href="https://github.com/Lodgoer"><img src="https://img.shields.io/badge/GitHub-Lodgoer-181717?style=flat&logo=github" alt="github badge" /></a>
-</p>
+Currently growing from writing code that works  
+to designing systems that last.
 
 ---
 
-### 🌱 About Me
-I build clean, efficient, and maintainable web applications with a focus on **C#**, **ASP.NET Core**, **Entity Framework**, **SQL**.  
-Currently leveling up full-stack skills and contributing to meaningful projects.
+### Currently Exploring
+- Clean Architecture & thoughtful system design  
+- Database modeling & performance thinking  
+- Docker and the fundamentals of cloud deployment
 
 ---
 
-### 🧰 Tech Stack
+### Reach Me By:
+📫 Email: [h.m.hosna@gmail.com](mailto:h.m.hosna@gmail.com)  
+💼 LinkedIn: [linkedin.com/in/hosnahajimohammadi](https://www.linkedin.com/in/hosnahajimohammadi/)  
+💻 GitHub: [github.com/Lodgoer](https://github.com/Lodgoer)  
+💬 Telegram: [t.me/Lodgoer](https://t.me/Lodgoer)
 
-**Languages & Frameworks**
-<p>
-  <img src="https://skillicons.dev/icons?i=cs,js,html,css" alt="tech icons" />
-</p>
-
-**Backend & Database**
-<p>
-  <img src="https://skillicons.dev/icons?i=dotnet,postman" alt="backend icons" />
-</p>
-
-**Tools**
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio,docker" alt="tools icons" />
-</p>
-
----
-
-### 🚀 Selected Projects
-
-
----
-
-### 📊 GitHub Stats
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Lodgoer&show_icons=true&theme=transparent alt="github stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lodgoer&layout=compact&theme=transparent&hide_border=true" alt="top languages" />
-</p>
-
----
-
-### Highlights
-- Open to **internships** and **collaborations**  
-- Interested in **clean architecture** and **cloud deployments** (Azure / AWS)  
-- Actively learning Docker and scalable architecture patterns
-
----
-
-<p align="center"> “Code with clarity, build with purpose.” </p>
