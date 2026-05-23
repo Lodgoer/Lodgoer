@@ -2,6 +2,7 @@
 
 Backend-focused Software Engineering Student  
 C# · .NET · ASP.NET Core · EF Core · SQL
+
 DDD . TDD 
 
 I build backend systems with clarity in mind,
